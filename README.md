@@ -1,4 +1,4 @@
-# EcoAware: The Only Smart Home Device You Will Ever Need.
+# EcoAware: The Only Smart Home Device You Will Ever Need
 
 A smart home hackathon project designed for dynamic home balance — improving eco-awareness, automation, and comfort.
 
