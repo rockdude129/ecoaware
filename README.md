@@ -13,7 +13,7 @@ EcoAware lets users monitor and balance home conditions by integrating sensors a
 - Uses Google Home as well!
 - Expandable: Add new sensors, outputs, or automations as needed.
 
-## Bill of Materials (BOM)
+## Way Connected
 
 COMING SOON - ESP32
 
