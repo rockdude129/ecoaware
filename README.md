@@ -36,25 +36,24 @@ EcoAware lets users monitor and balance home conditions by integrating sensors a
 ## Folder Structure
 
 ```
-ecoaware/
-│── ecoaware_oct19a.ino     # Main Arduino code
-│── arduino_secrets.h       # User secrets/config
-│── thingProperties.h       # Arduino IoT Cloud props
-│── sketch.json             # Arduino Web Editor project file
-│── [schematics.png]        # Schematic diagram (if present)
-│── [layout.png]            # Circuit layout (if present)
-│── README.md               # You're here!
-│── ReadMe.adoc             # AsciiDoc version of README
+N/A
 ```
 
 ## Bill of Materials (BOM)
 
 COMING SOON - ESP32
+
 Temp GPIO - 23
+
 Ultrasonic TRIG GPIO - 22
+
 Ultrasonic ECHO GPIO - 21
+
 LIGHT SIGNAL GREEN GPIO - 19
-LIGHT SIGNAL RED GPIO - 18 RELAY GPIO - 17
+
+LIGHT SIGNAL RED GPIO - 18 
+
+RELAY GPIO - 17
 
 ## License
 
