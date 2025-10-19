@@ -4,40 +4,14 @@ A smart home hackathon project designed for dynamic home balance — improving e
 
 ## Project Overview
 
-EcoAware lets users monitor and balance home conditions by integrating sensors and intelligent automation. Born from a hackathon, this project uses Arduino-compatible microcontrollers and IoT principles to keep environments comfortable and energy-efficient.
+EcoAware lets users monitor and balance home conditions by integrating sensors and intelligent automation. This project uses ESP32 and other Arduino-compatible microcontrollers and IoT principles to keep environments comfortable and energy-efficient.
 
 ## Features
 
-- Sensor Integration: Supports temperature, humidity, light, and other smart sensors.
+- Sensor Integration: Supports temperature, light, and other smart sensors.
 - Automation: Triggers alerts or actuators (like fans, lights, buzzers) for balance.
+- Uses Google Home as well!
 - Expandable: Add new sensors, outputs, or automations as needed.
-
-## Installation
-
-1. Clone this repo or download the ZIP:
-    ```bash
-    git clone https://github.com/rockdude129/ecoaware.git
-    ```
-2. Open `ecoaware_oct19a.ino` in the Arduino IDE.
-3. Copy `arduino_secrets.h` and configure your Wi-Fi and keys as needed.
-4. Ensure all required libraries are installed (see `thingProperties.h` for clues).
-
-## Circuit Assembly
-
-- Assemble the circuit using the included schematic (`schematics.png`) and layout (`layout.png`) if available.
-- The system typically uses Arduino-compatible boards, DHT11 sensors, buzzers, and LEDs (see BOM below).
-
-## Usage
-
-- Upload the sketch to your microcontroller.
-- The device will begin monitoring and balancing.
-- Review serial output for real-time logs, or connect to your IoT dashboard if available.
-
-## Folder Structure
-
-```
-N/A
-```
 
 ## Bill of Materials (BOM)
 
