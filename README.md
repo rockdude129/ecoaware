@@ -49,13 +49,12 @@ ecoaware/
 
 ## Bill of Materials (BOM)
 
-| ID  | Part Name        | Part Number  | Quantity |
-|-----|------------------|--------------|----------|
-| R1  | 10k Resistor     | 1234-abcd    | 10       |
-| L1  | Red LED          | 2345-asdf    | 5        |
-| A1  | Arduino Zero     | ABX00066     | 1        |
-| S1  | DHT11 Sensor     | [generic]    | 1        |
-| BZ1 | Passive Buzzer   | HW-508       | 1        |
+COMING SOON - ESP32
+Temp GPIO - 23
+Ultrasonic TRIG GPIO - 22
+Ultrasonic ECHO GPIO - 21
+LIGHT SIGNAL GREEN GPIO - 19
+LIGHT SIGNAL RED GPIO - 18 RELAY GPIO - 17
 
 ## License
 
